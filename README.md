@@ -19,7 +19,7 @@ This project is a 3D First-Person Shooter (FPS) game prototype built using the *
    ```bash
    git clone [https://github.com/Roberttwil/FPS-Games.git](https://github.com/Roberttwil/FPS-Games.git)
 
-```
+   ```
 2. This project utilizes Git Large File Storage (LFS) for 3D assets and textures. Ensure [Git LFS](https://git-lfs.com/) is installed, then run the following command inside the project directory to pull all the heavy assets:
 ```bash
 git lfs pull
