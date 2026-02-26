@@ -1,5 +1,5 @@
 # 🎯 FPS Bottle Shooter - Unity 3D
-![Gameplay Preview](TARUH_GAMBAR_ATAU_VIDEO_DI_SINI)
+![Gameplay Preview](image.png)
 ## 📝 Project Description
 This project is a 3D First-Person Shooter (FPS) game prototype built using the **Unity Engine**. The main focus of this project is to implement robust shooting mechanics and a physics system for a destructible environment. Players can use a weapon (M4A1) to shoot glass bottle targets that react realistically to bullet impacts.
 
