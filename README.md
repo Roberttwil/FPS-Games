@@ -26,6 +26,6 @@ This project is a 3D First-Person Shooter (FPS) game prototype built using the *
    ```
 3. Open **Unity Hub**, click **Import project** (or Add -> Add project from disk), and select the cloned `FPS-Games` folder.
 4. If prompted, allow Unity Hub to install the required Editor version (**6000.3.10f1 LTS**).
-5. Once the project is successfully loaded, navigate to the *Project* window, open the `Assets/Scenes` folder, and double-click the main scene file (e.g., `SampleScene`).
+5. Once the project is successfully loaded, navigate to the *Project* window, open the `Assets/Scenes` folder, and double-click the main scene file.
 6. Press the **Play** (▶) button at the top center of the Unity Editor to test the game.
 
