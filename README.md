@@ -21,10 +21,9 @@ This project is a 3D First-Person Shooter (FPS) game prototype built using the *
 
    ```
 2. This project utilizes Git Large File Storage (LFS) for 3D assets and textures. Ensure [Git LFS](https://git-lfs.com/) is installed, then run the following command inside the project directory to pull all the heavy assets:
-```bash
-git lfs pull
-
-```
+   ```bash
+   git lfs pull
+   ```
 3. Open **Unity Hub**, click **Import project** (or Add -> Add project from disk), and select the cloned `FPS-Games` folder.
 4. If prompted, allow Unity Hub to install the required Editor version (**6000.3.10f1 LTS**).
 5. Once the project is successfully loaded, navigate to the *Project* window, open the `Assets/Scenes` folder, and double-click the main scene file (e.g., `SampleScene`).
