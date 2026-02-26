@@ -20,21 +20,13 @@ This project is a 3D First-Person Shooter (FPS) game prototype built using the *
    git clone [https://github.com/Roberttwil/FPS-Games.git](https://github.com/Roberttwil/FPS-Games.git)
 
 ```
-
 2. This project utilizes Git Large File Storage (LFS) for 3D assets and textures. Ensure [Git LFS](https://git-lfs.com/) is installed, then run the following command inside the project directory to pull all the heavy assets:
 ```bash
 git lfs pull
 
 ```
-
-
 3. Open **Unity Hub**, click **Import project** (or Add -> Add project from disk), and select the cloned `FPS-Games` folder.
 4. If prompted, allow Unity Hub to install the required Editor version (**6000.3.10f1 LTS**).
 5. Once the project is successfully loaded, navigate to the *Project* window, open the `Assets/Scenes` folder, and double-click the main scene file (e.g., `SampleScene`).
 6. Press the **Play** (▶) button at the top center of the Unity Editor to test the game.
 
-```
-
-Bagaimana, bahasa Inggrisnya sudah pas atau ada istilah spesifik (*tech term*) yang mau kamu sesuaikan? Setelah ini, mau kita lanjut cek *script* buat ngecilin ukuran peluru merahnya tadi?
-
-```
